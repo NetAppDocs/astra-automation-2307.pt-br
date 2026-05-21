@@ -1,0 +1,12 @@
+---
+sidebar: sidebar 
+api: true 
+explorer: false 
+permalink: reference/namespace_endpoints.html 
+summary: 'Endpoints do namespace da Astra API (ACS)' 
+---
+= Endpoints do namespace da Astra API (ACS)
+:allow-uri-read: 
+
+
+A API de Namespace fornece acesso somente leitura aos recursos de namespace para descrever os namespaces associados a um determinado cluster.

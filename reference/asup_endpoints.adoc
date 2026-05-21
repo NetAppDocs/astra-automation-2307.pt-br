@@ -1,0 +1,12 @@
+---
+sidebar: sidebar 
+api: true 
+explorer: false 
+permalink: reference/asup_endpoints.html 
+summary: 'Terminais ASUP da API Astra (ACS)' 
+---
+= Terminais ASUP da API Astra (ACS)
+:allow-uri-read: 
+
+
+A API do ASUP fornece acesso aos recursos do ASUP para criar e, opcionalmente, carregar os pacotes AutoSupport.
